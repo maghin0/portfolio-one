@@ -1,9 +1,10 @@
 module.exports = {
-  name: 'London After Midnight',
-  shortName: 'LAM',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://gatsby-lam.vaporwavy.io', // Domain of your site without prefix!
-  prefix: '/',
-  author: 'Vaporwavy',
-  twitter: ''
+  name: "Tarek-Maghin",
+  shortName: "maghin",
+  description:
+    "Maghin became a great web developer who is able to turn any idea into an amazing website by building many personal projects and client websites",
+  url: "https://maghin-portfolio-one.netlify.com", // Domain of your site without prefix!
+  prefix: "/",
+  author: "Maghin",
+  twitter: "",
 }
