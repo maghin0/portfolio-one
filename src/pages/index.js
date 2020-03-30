@@ -73,6 +73,13 @@ const indexQuery = graphql`
                 }
               }
             }
+            hero {
+              childImageSharp {
+                fluid(maxWidth: 1360) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

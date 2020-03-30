@@ -17,7 +17,7 @@ class BlogPostTemplate extends React.Component {
           description={post.frontmatter.description || post.excerpt}
         />
         <article
-          className={`post-content ${post.frontmatter.thumbnail || `no-image`}`}
+          className={`post-content ${post.frontmatter.hero || `no-image`}`}
         >
           <header className="post-content-header">
             <h1 className="post-content-title">{post.frontmatter.title}</h1>
@@ -27,11 +27,11 @@ class BlogPostTemplate extends React.Component {
             <p class="post-content-excerpt">{post.frontmatter.description}</p>
           )}
 
-          {post.frontmatter.thumbnail && (
+          {post.frontmatter.hero && (
             <div className="post-content-image">
               <Img
                 className="kg-image"
-                fluid={post.frontmatter.thumbnail.childImageSharp.fluid}
+                fluid={post.frontmatter.hero.childImageSharp.fluid}
                 alt={post.frontmatter.title}
               />
             </div>
@@ -72,7 +72,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
-        thumbnail {
+        hero {
           childImageSharp {
             fluid(maxWidth: 1360) {
               ...GatsbyImageSharpFluid
