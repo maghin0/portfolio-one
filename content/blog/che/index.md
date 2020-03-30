@@ -2,7 +2,8 @@
 title: Che's Webdesign Case Study
 date: "2019-05-07"
 tags: [pink, color]
-thumbnail: ./che-mockup.png
+thumbnail: ./che-thumbnail.jpg
+hero: ./che-hero.png
 description: I created this model portfolio website for Che Yen, an American-Taiwanese model. Che wanted a simple and fast image-based website to share her personal and modeling shoots with her audience. She wants to use this website as a platform to later build a clothing brand to sell online to her fans.
 ---
 
@@ -23,5 +24,9 @@ My general approach was to create something image-based and aesthetically pleasi
 ### Final Design
 
 After I finished wireframing the homepage and the 3 tabs, I began designing the website. Since I wanted the website to be image-based, I began designing for PC and Laptop screens first, then created a mobile adaptive design. I choose a feminine color palette and bold fonts for the primary text and a clean san-serif font for the secondary text giving the website a modern look.
+
+# Watch the video:
+
+`youtube:https://www.youtube.com/embed/laBjlkwhcGo`
 
 ![che project colors](./che-colors.jpg)
