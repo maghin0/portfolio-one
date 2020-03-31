@@ -6,6 +6,8 @@ hero: ./nilegroup-hero.jpg
 description: A deep investigation into the pastel properties of colourful fruit and their psychological effects on hamsters
 ---
 
+### [Nilegroup's website](https://nilegroupegy.com/)
+
 ![nilegroup hero](./nilegroup-hero.jpg)
 
 Abdo wanted to create a professional email, for his B2B business when he contacted me. He also wanted to make a site to display the company’s he has been dealing with, and he wanted it kind of soon. Since this was when I was still inexperienced I made it for him using wordpress. When I had absolutely no idea what it was, but I was confident I could learn it and still deliver it on time.

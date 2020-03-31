@@ -7,6 +7,8 @@ hero: ./che-hero.png
 description: I created this model portfolio website for Che Yen, an American-Taiwanese model. Che wanted a simple and fast image-based website to share her personal and modeling shoots with her audience. She wants to use this website as a platform to later build a clothing brand to sell online to her fans.
 ---
 
+### [Che Yen's website](https://che-san.netlify.com)
+
 ### Goal/Objective
 
 Che is an American-Taiwanese model, she wanted an alternative way to display her modeling shoots and personal life. She wanted to customize how she presents her work in a way that reflected the brand she wanted to create. So I needed to create a simple but unique design and vibe that would be associated with Che.

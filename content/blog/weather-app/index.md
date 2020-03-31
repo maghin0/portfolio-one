@@ -1,9 +1,11 @@
 ---
-title: All Designs
+title: Weather App
 date: "2019-05-08"
-thumbnail: ./bbbb.jpg
+thumbnail: ./weather-app-hero.png
 description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
 ---
+
+### [Weather App's site](https://itisraining.netlify.com/)
 
 ### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
 
@@ -13,18 +15,12 @@ This is the final render.
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./BLACK_II_desktop-1.jpg)
+![Darkness](./weather-app-hero.png)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./BLACK_IX_desktop-1.jpg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-width-full">
-
-![Darkness](./BLACK_I_desktop-1.jpg)
+![Darkness](./weather-app-search.png)
 
 </div>
