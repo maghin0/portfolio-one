@@ -1,7 +1,7 @@
 ---
 title: Domino’s Pizza App Redesign
-date: "2019-05-02"
-tags: [green, color]
+date: "2019-12-12"
+tags: [web design]
 thumbnail: ./dominos-thumbnail.jpg
 hero: ./dominos-hero.jpg
 description: For in the true nature of things, if we rightly consider, every green tree is far more glorious than if it were made of gold and silver.

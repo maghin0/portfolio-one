@@ -1,10 +1,11 @@
 module.exports = {
-  name: "Tarek-Maghin",
+  name: "Maghin",
   shortName: "maghin",
   description:
-    "Maghin became a great web developer who is able to turn any idea into an amazing website by building many personal projects and client websites",
+    "Having built many personal projects and client websites, Maghin became a great web designer and developer who is able to turn any idea into an amazing experience.",
   url: "https://maghin-portfolio-one.netlify.com", // Domain of your site without prefix!
   prefix: "/",
   author: "Maghin",
   twitter: "",
+  instagram: "https://www.instagram.com/tarekmaghin/",
 }

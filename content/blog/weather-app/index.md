@@ -1,26 +1,31 @@
 ---
 title: Weather App
 date: "2019-05-08"
-thumbnail: ./weather-app-hero.png
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+tags: [web development]
+thumbnail: ./weather-app-thumbnail.jpg
+description: A simple API react app using weather API to take search requests and bring back the information
 ---
 
-### [Weather App's site](https://itisraining.netlify.com/)
-
-### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
-
-I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.
-
-This is the final render.
+### Vist my website here [Weather App's site](https://itisraining.netlify.com/)
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./weather-app-hero.png)
+![Darkness](./weather-app-homepage.jpg)
 
 </div>
 
+It's a simple app but i learned so much about API's as a new react developer this was my first build integrating weather's API to take search requests and return the API data back to my site.
+
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./weather-app-search.png)
+![Darkness](./weather-app-search.jpg)
+
+</div>
+
+You can search for any country and check the weather, temp, and other stats about the country or city you searched for, the weather API handles everything.
+
+<div class="kg-card kg-image-card kg-width-full">
+
+![Darkness](./weather-app-dev-tools.jpg)
 
 </div>
