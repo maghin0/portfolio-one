@@ -10,7 +10,7 @@ import PostCard from "../components/postCard"
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
-import tools from "../../content/assets/tools.jpg"
+import tools from "../../content/assets/mytools.jpg"
 //TODO: switch to staticQuery, get rid of comments, remove unnecessary components, export as draft template
 
 const BlogIndex = ({ data }, location) => {
