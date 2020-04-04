@@ -21,6 +21,7 @@ class BlogPostTemplate extends React.Component {
         >
           <header className="post-content-header">
             <h1 className="post-content-title">{post.frontmatter.title}</h1>
+            <h6 className="post-content">{post.frontmatter.dates}</h6>
           </header>
 
           {post.frontmatter.description && (
@@ -71,6 +72,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        dates(formatString: "MMMM,  YYYY")
         description
         hero {
           childImageSharp {

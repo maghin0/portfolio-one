@@ -108,6 +108,7 @@ const indexQuery = graphql`
           }
           frontmatter {
             date(formatString: "MMMM D, YYYY")
+            dates(formatString: "MMMM D, YYYY")
             title
             description
             tags
