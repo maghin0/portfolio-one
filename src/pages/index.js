@@ -11,6 +11,7 @@ import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
 import tools from "../../content/assets/mytools.jpg"
+// import toolswebp from "../../content/assets/mytools.webp"
 //TODO: switch to staticQuery, get rid of comments, remove unnecessary components, export as draft template
 
 const BlogIndex = ({ data }, location) => {
@@ -37,11 +38,7 @@ const BlogIndex = ({ data }, location) => {
         style={{ marginTop: 0, paddingTop: 0 }}
       >
         <h2 id="this-is-a-section ">ABOUT ME</h2>
-        <br />
 
-        <h6>
-          <strong>MAGHIN</strong>
-        </h6>
         <p>
           Designed and developed multiple websites and web applications.
           Experienced in creating blazing fast websites with data persistence
@@ -60,11 +57,11 @@ const BlogIndex = ({ data }, location) => {
           freelance web designer and developer always craving a challenge. Reach
           out to tarek-maghin@outlook.com to connect!
         </p>
-        <h2>Tools</h2>
+
         <div class="kg-card kg-image-card">
+          <h2>Tools</h2>
           <picture>
-            <source srcset={tools} />
-            <source srcset={tools} />
+            {/* <source srcset={toolswebp} /> */}
             <img src={tools} alt="Tools" />
           </picture>
         </div>

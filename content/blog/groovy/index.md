@@ -1,10 +1,10 @@
 ---
 title: Groovy Web Redesign Case Study
-date: "2020-01-01"
+date: "2020-01-03"
+dates: "2019-12-12"
 tags: [web design]
 thumbnail: ./groovy-thumbnail.jpg
 hero: ./groovy-hero-image.png
-description: This is a personal project I made and will pitch the design to Groovy Medspa. Groovy is a medical spa in Egypt with multiple branches in the country. They have beautiful, modern clinics and centers but their website was in dire need of a redesign to match their physical presence. Their website needed a much more user-friendly, customized design to showcase their beauty services and allow customers to book appointments online. My goal was to combine a smooth exploration experience with enhanced brand storytelling to highlight their passion, dedication to quality, and the science behind their products and services.
 ---
 
 ### Goal/Objective

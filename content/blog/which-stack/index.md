@@ -1,19 +1,18 @@
 ---
 title: Which-Stack
-date: "2019-05-01"
+date: "2020-01-08"
 tags: [web development]
 thumbnail: ./whichstack-thumbnail.jpg
 hero: ./whichstack-home.png
-description: which-stack where developers meet, talk, and discuss the best solutions for developing ideas.
 ---
-
-### [which-stack's website](https://which-stack.netlify.com)
 
 <div class="kg-card kg-image-card kg-width-full">
 
 ![which-stack comments](./whichstack-post.jpg)
 
 </div>
+
+### Visit the website here: [which-stack's website](https://which-stack.netlify.com)
 
 This was a personal project I made with the idea of creating a community that would share their experience with other developers. A developer would create an account and start sharing their idea, and ask what the best way of building it would be. Other developers would share their experience of how they think the best approach and the best “stack” and their reasoning behind it.
 

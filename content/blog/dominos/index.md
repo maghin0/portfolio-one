@@ -1,6 +1,7 @@
 ---
 title: Domino’s Pizza App Redesign
-date: "2019-12-12"
+date: "2020-01-03"
+dates: "2020-02-08"
 tags: [web design]
 thumbnail: ./dominos-thumbnail.jpg
 hero: ./dominos-hero.jpg
@@ -15,6 +16,8 @@ So Soft UI, or Neumorphism was trending when I started on this project so I thou
 
 This was the first time I made a prototype using InVision Studio. I used to illustrate interactions of how the app works with Adobe After Effects. But making prototypes I think is much more functional because the user can actually interact with the product and you can conduct user research on it unlike a video that only illustrates how the app is supposed to work, and it’s less time consuming as well.
 
-# Look at this Video:
+![Colors used](dominos-colors.png)
+
+# Watch the video:
 
 `youtube:https://www.youtube.com/embed/5DV2kVVf5Wo`

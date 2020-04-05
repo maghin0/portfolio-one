@@ -1,10 +1,10 @@
 ---
 title: Whatsapp Redesign
-date: "2020-02-03"
+date: "2020-01-01"
+dates: "2020-02-22"
 tags: [web design]
 thumbnail: ./whatsapp-thumbnail1.jpg
 hero: ./whatsapp-hero.jpg
-description: WhatsApp redesign
 ---
 
 This was another personal project of mine. I didn’t really try to change the UX too much because this is Whatsapp and I could get more user data than Whatsapp itself so that I can make data driven decisions regarding the UX. Some of the UX changes I made were adding stories in the chats page to make it more visible to users so that they’re more inclined to use it. I also added an online icon externally so you could know if the user is online or not without having to open the chat, and a circular outline to indicate if they have a story and whether you’ve seen it or not.

@@ -1,7 +1,6 @@
 ---
 title: UI / UX Design
-date: "2018-11-11"
-dates: "2018-11-11"
+date: "2020-01-05"
 tags: [web design, web development]
 ---
 

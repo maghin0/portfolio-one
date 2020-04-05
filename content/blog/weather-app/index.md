@@ -1,12 +1,10 @@
 ---
 title: Weather App
-date: "2019-05-08"
+date: "2020-01-07"
 tags: [web development]
 thumbnail: ./weather-app-thumbnail.jpg
 description: A simple API react app using weather API to take search requests and bring back the information
 ---
-
-### Vist my website here [Weather App's site](https://itisraining.netlify.com/)
 
 <div class="kg-card kg-image-card kg-width-full">
 
@@ -14,7 +12,9 @@ description: A simple API react app using weather API to take search requests an
 
 </div>
 
-It's a simple app but i learned so much about API's as a new react developer this was my first build integrating weather's API to take search requests and return the API data back to my site.
+### Visit the website here: [Weather App's site](https://itisraining.netlify.com/)
+
+This app didn't take too much, but building it helped me learn so much about API's as a new react developer this was my first build integrating weather's API to take search requests and return the API data back to my site.
 
 <div class="kg-card kg-image-card kg-width-full">
 
