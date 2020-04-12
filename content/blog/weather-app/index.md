@@ -2,13 +2,13 @@
 title: Weather App
 date: "2020-01-07"
 tags: [web development]
-thumbnail: ./weather-app-thumbnail.jpg
+thumbnail: ./weather-app-thumbnail1.jpg
 description: A simple API react app using weather API to take search requests and bring back the information
 ---
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./weather-app-homepage.jpg)
+![Darkness](./weather-app-homepage.png)
 
 </div>
 
@@ -18,7 +18,7 @@ This app didn't take too much, but building it helped me learn so much about API
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./weather-app-search.jpg)
+![Darkness](./weather-app-search.png)
 
 </div>
 
@@ -26,6 +26,6 @@ You can search for any country and check the weather, temp, and other stats abou
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./weather-app-dev-tools.jpg)
+![Darkness](./weather-app-dev-tools2.jpg)
 
 </div>

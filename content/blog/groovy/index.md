@@ -15,9 +15,10 @@ I strongly believe that the reason a customer is unable to reach a service shoul
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![groovy design](./groovy-current1.jpg)
+![groovy design](./groovy-current2.jpg)
 
 </div>
+
 ### Problems with their Current Website
 
 The 2 main issues I identified in their current website are poor aesthetics and lack of information. The web design is old-fashioned and the colors are dark and uninviting.
@@ -27,6 +28,7 @@ The 2 main issues I identified in their current website are poor aesthetics and 
 ![groovy old catagories](./groovy-old-cata.png)
 
 </div>
+
 Under each tab there’s only generic information on the products or procedures, there isn’t even a comprehensive list of all the procedures they provide.
 
 <div class="kg-card kg-image-card kg-width-full">
@@ -41,7 +43,7 @@ I first began researching all the procedures that Groovy provided for their clie
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![groovy old catagories](./groovy-wireframe1.jpg)
+![groovy old catagories](./groovy-wireframe2.jpg)
 
 </div>
 
@@ -69,6 +71,6 @@ The first thing I wanted to change was their color palette. Their colors were da
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![groovy old catagories](./groovy-colors1.jpg)
+![groovy old catagories](./groovy-colors6.jpg)
 
 </div>

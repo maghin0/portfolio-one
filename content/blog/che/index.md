@@ -18,7 +18,7 @@ Che is an American-Taiwanese model, she wanted an alternative way to display her
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![che project wireframe](./che-wireframe.jpg)
+![che project wireframe](./che-wireframe1.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ My general approach was to create something image-based and aesthetically pleasi
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![che project full design](./che-full.jpg)
+![che project full design](./che-full1.jpg)
 
 </div>
 
@@ -38,13 +38,17 @@ My general approach was to create something image-based and aesthetically pleasi
 
 After I finished wireframing the homepage and the 3 tabs, I began designing the website. Since I wanted the website to be image-based, I began designing for PC and Laptop screens first, then created a mobile adaptive design. I choose a feminine color palette and bold fonts for the primary text and a clean san-serif font for the secondary text giving the website a modern look.
 
+<div class="kg-card kg-image-card kg-width-wide">
+
 # Watch the video:
 
-`youtube:https://www.youtube.com/embed/laBjlkwhcGo`
+`youtube:https://www.youtube.com/watch?v=laBjlkwhcGo`
+
+</div>
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![che project colors](./che-colors.jpg)
+![che project colors](./che-colors1.jpg)
 
 </div>
 
@@ -87,6 +91,6 @@ Next problem I faced was that I had many single images and carousels that needed
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![tools used](che-development.jpg)
+![tools used](che-development2.jpg)
 
 </div>

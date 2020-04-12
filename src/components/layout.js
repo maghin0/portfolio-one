@@ -62,6 +62,15 @@ const Layout = props => {
               >
                 GitHub
               </a>
+              <a href="mailto:tarek-maghin@outlook.com">
+                <button
+                  className="large"
+                  role="button"
+                  style={{ marginLeft: 10 }}
+                >
+                  Hire me
+                </button>
+              </a>
             </div>
           </div>
         </div>

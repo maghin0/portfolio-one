@@ -11,6 +11,8 @@ import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
 import tools from "../../content/assets/mytools.jpg"
+import poster from "../../content/assets/hire-me.png"
+import hirevideo from "../../content/assets/hire-video.webm"
 // import toolswebp from "../../content/assets/mytools.webp"
 //TODO: switch to staticQuery, get rid of comments, remove unnecessary components, export as draft template
 
@@ -22,8 +24,15 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Posts"
-        keywords={[`devlog`, `blog`, `gatsby`, `javascript`, `react`]}
+        title="web developer and UI designer"
+        keywords={[
+          `UI`,
+          `portfolio`,
+          `web design`,
+          `freelancer`,
+          `remote`,
+          `developer`,
+        ]}
       />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
@@ -54,8 +63,7 @@ const BlogIndex = ({ data }, location) => {
           believes work is faster and clearer when keeping track of his health
           and mindfulness, a tenet he lives out through his passion for tennis,
           meditation, and abstract art. Tarek is currently working as a
-          freelance web designer and developer always craving a challenge. Reach
-          out to tarek-maghin@outlook.com to connect!
+          freelance web designer and developer always craving a challenge.
         </p>
 
         <div class="kg-card kg-image-card">
@@ -83,6 +91,27 @@ const BlogIndex = ({ data }, location) => {
             />
           )
         })}
+      </div>
+
+      <div class="kg-card kg-image-card kg-width-full">
+        <article className="post-content ">
+          <header className="page-head">
+            <div style={{ zIndex: 10 }}>
+              <h1>CONNECT</h1>
+              <h2 className="page-head-title">
+                <a href="mailto:tarek-maghin@outlook.com">
+                  <button
+                    className="large"
+                    role="button"
+                    style={{ marginLeft: 10 }}
+                  >
+                    Hire me
+                  </button>
+                </a>
+              </h2>
+            </div>
+          </header>
+        </article>
       </div>
     </Layout>
   )

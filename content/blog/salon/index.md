@@ -2,8 +2,8 @@
 title: Salon
 date: "2020-01-09T22:12:03.284Z"
 tags: [web development]
-thumbnail: ./salon-thumbnail.jpg
-hero: ./salon-hero.jpg
+thumbnail: ./salon-thumbnail2.jpg
+hero: ./salon-hero3.jpg
 ---
 
 ### Visit the website here: [salon's website](https://salon-sassy.netlify.com/)
@@ -15,12 +15,12 @@ I knew I had to build a lightning-fast website for scalability, user experience,
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![salon steps](./salon-steps.jpg)
+![salon steps](./salon-steps3.jpg)
 
 <div>
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![salon dev tools](./salon-dev-tools.jpg)
+![salon dev tools](./salon-dev-tools1.jpg)
 
 <div>

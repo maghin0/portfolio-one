@@ -3,7 +3,7 @@ title: Whatsapp Redesign
 date: "2020-01-01"
 dates: "2020-02-22"
 tags: [web design]
-thumbnail: ./whatsapp-thumbnail1.jpg
+thumbnail: ./whatsapp-thumbnail2.jpg
 hero: ./whatsapp-hero.jpg
 ---
 
@@ -19,6 +19,6 @@ Changes that I made to the UI were meant to give it a cleaner and modern look. T
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![whatsApp changes](./whatsapp-colors.jpg)
+![whatsApp changes](./whatsapp-colors4.jpg)
 
 <div>

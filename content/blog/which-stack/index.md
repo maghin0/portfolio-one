@@ -2,13 +2,13 @@
 title: Which-Stack
 date: "2020-01-08"
 tags: [web development]
-thumbnail: ./whichstack-thumbnail.jpg
-hero: ./whichstack-home.png
+thumbnail: ./whichstack-thumbnail3.png
+hero: ./whichstack-home1.png
 ---
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![which-stack comments](./whichstack-post.jpg)
+![which-stack comments](./whichstack-post1.png)
 
 </div>
 
@@ -20,7 +20,7 @@ Built a full authentication back-end. A user can login, have a personal account 
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![which-stack login](./whichstack-login.jpg)
+![which-stack login](./whichstack-login1.png)
 
 </div>
 
@@ -28,8 +28,4 @@ This project was self-made to help me understand how to use a stack that I have 
 
 While building this I learned so much about MERN stack but later I found out that Gatsby and the JAM stack are much faster and lighter to build. And that’s when I started learning and building Salon website.
 
-<div class="kg-card kg-image-card kg-width-full">
-
 ![which-stack login](./which-stack-dev-tools.jpg)
-
-</div>

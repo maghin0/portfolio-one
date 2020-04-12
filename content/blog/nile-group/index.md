@@ -8,7 +8,7 @@ hero: ./nile-group-hero.jpg
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![nilegroup hero](./nile-group-full.jpg)
+![nilegroup hero](./nile-group-full1.jpg)
 
 </div>
 
@@ -20,24 +20,20 @@ The hardest part was the time window I had to deliver the project on, a month. I
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![nilegroup info](./nile-group-info.jpg)
+![nilegroup info](./nile-group-info1.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![nilegroup products](./nile-group-products.jpg)
+![nilegroup products](./nile-group-products1.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![nilegroup location](./nile-group-location.jpg)
+![nilegroup location](./nile-group-location1.jpg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-full">
-
-![nilegroup dev tools](./nile-group-dev-tools.jpg)
-
-</div>
+![nilegroup dev tools](./nile-group-dev-tools2.jpg)

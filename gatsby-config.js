@@ -27,33 +27,38 @@ module.exports = {
         name: `assets`,
       },
     },
+
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              maxWidth: 1400,
+              ratio: 1.77,
+              related: false,
+              noIframeBorder: true,
+            },
+          },
           {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 1360,
               withWebp: true,
               showCaptions: true,
-              quality: 85,
+              quality: 100,
               wrapperStyle: `margin: 7vw 0;`,
             },
           },
+
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
-          {
-            resolve: "gatsby-remark-embed-youtube",
-            options: {
-              width: 700,
-              height: 400,
-            },
-          },
+
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,

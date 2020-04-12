@@ -401,7 +401,7 @@ body {
   background: linear-gradient(135deg, #242426 0%, #161618 100%) center center;
   background-size: cover;
   overflow: hidden;
-  counter-increment: posts;
+  counter-increment: 0;
 }
 
 @media (max-width: 700px) {
@@ -815,4 +815,13 @@ body {
   max-width: 70%;
   margin: auto;
   text-align: center;
+}
+
+.hire-me {
+  background-image: url(../../../content/assets/hire-me.png);
+}
+video {
+  object-fit: cover;
+
+  position: fixed;
 }
