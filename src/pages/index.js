@@ -10,7 +10,7 @@ import PostCard from "../components/postCard"
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
-import tools from "../../content/assets/mytools.jpg"
+import tools from "../../content/assets/mytools1.jpg"
 import poster from "../../content/assets/hire-me.png"
 import hirevideo from "../../content/assets/hire-video.webm"
 // import toolswebp from "../../content/assets/mytools.webp"
@@ -32,6 +32,7 @@ const BlogIndex = ({ data }, location) => {
           `freelancer`,
           `remote`,
           `developer`,
+          `maghin`,
         ]}
       />
       {/* <Bio /> */}
@@ -75,7 +76,7 @@ const BlogIndex = ({ data }, location) => {
         </div>
       </article>
 
-      <h2 id="this-is-a-section " className="kg-card kg-width-wide">
+      <h2 id="work" className="kg-card kg-width-wide">
         PROJECTS
       </h2>
 

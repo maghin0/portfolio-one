@@ -5,7 +5,6 @@ dates: "2020-02-08"
 tags: [web design]
 thumbnail: ./dominos-thumbnail.jpg
 hero: ./dominos-hero.jpg
-description: For in the true nature of things, if we rightly consider, every green tree is far more glorious than if it were made of gold and silver.
 ---
 
 ### Domino’s Pizza App Redesign

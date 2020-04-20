@@ -6,7 +6,7 @@ thumbnail: ./music-app-thumbnail1.jpg
 hero: ./music-app-hero.jpg
 ---
 
-This is one of the first apps I designed. I was trying to go for a very simplified, gesture based music app design. The major feature was the play button, which I illustrated in video to show how it would work. The rest of the design was rather minimal, with as few buttons as possible.
+Designed and created a motion graphics video illustrating how this music application would work. I went for a minimal, gesture based music app design. The major feature was the gesture-based play button, which I illustrated in the motion graphics video to show how it would work.
 
 <div class="kg-card kg-image-card kg-width-wide">
 
