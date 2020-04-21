@@ -16,7 +16,7 @@ hero: ./whichstack-home1.png
 
 This was a personal project I made with the idea of creating a community that would share their experience with other developers. A developer would create an account and start sharing their idea, and ask what the best way of building it would be. Other developers would share their experience of how they think the best approach and the best “stack” and their reasoning behind it.
 
-Built a full authentication back-end. A user can login, have a personal account stored on mongoDB with data persistance, with their own username.
+Built a full authentication back-end. A user can login, have a personal account stored on mongoDB with data persistence, with their own username.
 
 <div class="kg-card kg-image-card kg-width-full">
 

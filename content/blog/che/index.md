@@ -57,7 +57,7 @@ After I finished wireframing the homepage and the 3 tabs, I began designing the 
 ### Stack
 
 JAM stack
-Building this project I had to set in mind the potential goal which was to have an online shop that was going to sell cloths Che’s dream of owning a clothing line so I had a few things in mind:
+Building this project I had to keep in mind the potential goal which was to have an online shop that was going to sell cloths Che’s dream of owning a clothing line so I had a few things in mind:
 • SEO (Search Engine Optimization)
 • Lead conversion
 • Bounce rates
