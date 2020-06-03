@@ -60,10 +60,10 @@ const BlogIndex = ({ data }, location) => {
           great web developer who is able to turn any idea into an amazing
           website lead to building many personal projects and websites. Recently
           he was able to make an open-source website combining many of his
-          favorite technologies while maintaining a work-life balance. Tarek
+          favorite technologies while maintaining a work-life balance. Maghin
           believes work is faster and clearer when keeping track of his health
           and mindfulness, a tenet he lives out through his passion for tennis,
-          meditation, and abstract art. Tarek is currently working as a
+          meditation, and abstract art. Maghin is currently working as a
           freelance web designer and developer always craving a challenge.
         </p>
 
