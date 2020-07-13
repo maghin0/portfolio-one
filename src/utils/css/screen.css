@@ -7,6 +7,7 @@ production stylesheet in assets/built/screen.css using gulp dev
 
 /* Lib - Local component imports
 /* ---------------------------------------------------------- */
+
 @import "vars.css";
 @import "components/global.css";
 @import "components/ghost.css";
@@ -19,12 +20,13 @@ production stylesheet in assets/built/screen.css using gulp dev
 @import "components/hamburger.css";
 @import "components/animations.css";
 @import "components/prism.css";
-
 /* Main - Theme styles
 /* ---------------------------------------------------------- */
+
 html {
   scroll-behavior: smooth;
 }
+
 body {
   /* font-family: 'Muli', sans-serif; */
   font-family: var(--font-sans-serif);
@@ -55,6 +57,7 @@ body {
   padding: 3vw;
   min-height: 100vh;
 }
+
 @media (max-width: 850px) {
   .site-wrapper {
     padding: 6vw;
@@ -102,6 +105,7 @@ body {
   font-size: 4.2rem;
   color: var(--color-base);
 }
+
 @media (max-width: 500px) {
   .page-head-title {
     font-size: 2rem;
@@ -114,6 +118,7 @@ body {
   font-size: 2.2rem;
   line-height: 1.35em;
 }
+
 @media (max-width: 500px) {
   .page-head-description {
     font-size: 1.6rem;
@@ -201,7 +206,7 @@ body {
   line-height: 1em;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 6px;
 }
 
 .site-head-logo:hover {
@@ -339,7 +344,6 @@ body {
     flex-direction: column;
     align-items: flex-start;
   }
-
   .site-head-open {
     /* background: rgba(255,255,255,1); */
     background: var(--color-bg);
@@ -348,19 +352,16 @@ body {
     overflow: hidden;
     height: 100vh;
   }
-
   .site-head-open .site-head-container {
     height: 100vh;
     transition: height 0.2s ease-in;
   }
-
   .site-head-open .site-head-left,
   .site-head-open .site-head-right {
     z-index: 9999;
     height: auto;
     transition: height 0.2s cubic-bezier(0.4, 0.01, 0.165, 0.99);
   }
-
   .site-head-open .site-head-left a,
   .site-head-open .site-head-right a {
     opacity: 1;
@@ -462,6 +463,7 @@ body {
 .post-card.with-image .post-card-content {
   opacity: 0;
 }
+
 @media (max-width: 700px) {
   .post-card.with-image .post-card-content {
     opacity: 1;
@@ -483,6 +485,7 @@ body {
 }
 
 /* Posts without images */
+
 .post-card.no-image:before {
   display: block;
   content: counter(posts);
@@ -525,6 +528,7 @@ body {
     font-size: 1.4rem;
   }
 }
+
 @media (max-width: 940px) {
   /* .post-card.no-image .post-card-date, */
   .post-card.no-image .post-card-body,
@@ -532,6 +536,7 @@ body {
     display: none;
   }
 }
+
 @media (max-width: 700px) {
   .post-card.no-image:before {
     font-size: 50vw;
@@ -542,6 +547,7 @@ body {
     display: block;
   }
 }
+
 @media (max-width: 430px) {
   /* .post-card.no-image .post-card-date, */
   .post-card.no-image .post-card-body,
@@ -579,6 +585,7 @@ body {
   text-align: center;
   opacity: 0.5;
 }
+
 @media (max-width: 500px) {
   .post-content-excerpt {
     font-size: 1.8rem;
@@ -599,6 +606,7 @@ body {
   font-size: 1.9rem;
   line-height: 1.65em;
 }
+
 @media (max-width: 500px) {
   .post-content-body {
     font-size: 1.7rem;
@@ -704,7 +712,6 @@ body {
   width: 1px;
   height: 30px;
   background: color(var(--color-border) l(+10%));
-
   transform: rotate(45deg);
 }
 
@@ -822,8 +829,8 @@ body {
 .hire-me {
   background-image: url(../../../content/assets/hire-me.png);
 }
+
 video {
   object-fit: cover;
-
   position: fixed;
 }
