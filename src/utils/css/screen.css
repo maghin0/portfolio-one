@@ -206,7 +206,11 @@ body {
   line-height: 1em;
   font-weight: 700;
   text-transform: uppercase;
+<<<<<<< HEAD
   letter-spacing: 6px;
+=======
+  letter-spacing: 1rem;
+>>>>>>> 3b5a3d7984ac9f91189e1749a1eca5cd12596d1b
 }
 
 .site-head-logo:hover {
