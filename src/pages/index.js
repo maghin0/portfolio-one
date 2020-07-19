@@ -33,6 +33,7 @@ const BlogIndex = ({ data }, location) => {
           `remote`,
           `developer`,
           `maghin`,
+          `case study`,
         ]}
       />
       {/* <Bio /> */}

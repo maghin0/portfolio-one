@@ -1,5 +1,5 @@
 ---
-title: Groovy Web Redesign Case Study
+title: Groovy Web Redesign
 date: "2020-01-03"
 dates: "2019-12-12"
 tags: [web design]
