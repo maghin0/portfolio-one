@@ -38,15 +38,34 @@ const BlogIndex = ({ data }, location) => {
       />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
-        <header className="page-head">
+        <header className="page-head" style={{ marginBottom: "11em" }}>
           <h2 className="page-head-title">
             {data.site.siteMetadata.description}
           </h2>
         </header>
       )}
+
+      <h2 id="work" className="kg-card kg-width-wide">
+        PROJECTS
+      </h2>
+
+      <div className="post-feed">
+        {posts.map(({ node }) => {
+          postCounter++
+          return (
+            <PostCard
+              key={node.fields.slug}
+              count={postCounter}
+              node={node}
+              postClass={`post`}
+            />
+          )
+        })}
+      </div>
       <article
         className="post-content page-template no-image "
-        style={{ marginTop: 0, paddingTop: 0 }}
+        style={{ marginTop: 20, paddingBottom: 0 }}
+        id="about"
       >
         <h2 id="this-is-a-section ">ABOUT ME</h2>
 
@@ -76,24 +95,6 @@ const BlogIndex = ({ data }, location) => {
           </picture>
         </div>
       </article>
-
-      <h2 id="work" className="kg-card kg-width-wide">
-        PROJECTS
-      </h2>
-
-      <div className="post-feed">
-        {posts.map(({ node }) => {
-          postCounter++
-          return (
-            <PostCard
-              key={node.fields.slug}
-              count={postCounter}
-              node={node}
-              postClass={`post`}
-            />
-          )
-        })}
-      </div>
 
       <div class="kg-card kg-image-card kg-width-full">
         <article className="post-content ">
