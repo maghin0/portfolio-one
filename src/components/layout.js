@@ -48,7 +48,7 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.instagram.com/tarekmaghin/"
+                href="https://www.instagram.com/maghin_web/"
                 title="instagram"
                 target="_blank"
                 rel="noopener noreferrer"

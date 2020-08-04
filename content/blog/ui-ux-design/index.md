@@ -14,4 +14,4 @@ These are not all the web development projects that I have made, but just the on
 
 ### [Whats App's Design](https://maghin.netlify.app/whatsapp/)
 
--- see my [Instagram](https://www.instagram.com/tarekmaghin/)
+-- see my [Instagram](https://www.instagram.com/maghin_web/)

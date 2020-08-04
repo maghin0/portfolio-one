@@ -16,4 +16,4 @@ These are not all the web development projects that I have made, but just the on
 
 ### [Nile Group's website](https://maghin.netlify.app/nile-group/)
 
--- see my [Instagram](https://www.instagram.com/tarekmaghin/)
+-- see my [Instagram](https://www.instagram.com/maghin_web/)
