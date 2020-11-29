@@ -33,7 +33,7 @@ const Layout = props => {
                 <Link to={`#work`}>Work</Link>
               </li>
               <li className="nav-work" role="menuitem">
-                <Link to={`#about`}>About</Link>
+                <Link to={`#about`}>Tools</Link>
               </li>
               <li className="nav-tags" role="menuitem">
                 <Link to={`/tags`}>Tags</Link>
@@ -56,14 +56,14 @@ const Layout = props => {
                 Instagram
               </a>
 
-              <a
+              {/* <a
                 href="https://github.com/maghin0"
                 title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 GitHub
-              </a>
+              </a> */}
               <a href="mailto:tarek-maghin@outlook.com">
                 <button
                   className="large"
@@ -84,14 +84,7 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with{" "}
-        <a
-          href="https://gatsbyjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Gatsby
-        </a>
+        Built with {"Gatsby"}
       </footer>
     </div>
   )

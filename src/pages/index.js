@@ -67,8 +67,14 @@ const BlogIndex = ({ data }, location) => {
         style={{ marginTop: 20, paddingBottom: 0 }}
         id="about"
       >
+        <div class="kg-card kg-image-card">
+          <h2>Tools</h2>
+          <picture>
+            {/* <source srcset={toolswebp} /> */}
+            <img src={tools} alt="Tools" />
+          </picture>
+        </div>
         <h2 id="this-is-a-section ">ABOUT ME</h2>
-
         <p>
           Designed and developed multiple websites and web applications.
           Experienced in creating blazing fast websites with data persistence
@@ -86,14 +92,6 @@ const BlogIndex = ({ data }, location) => {
           meditation, and abstract art. Maghin is currently working as a
           freelance web designer and developer always craving a challenge.
         </p>
-
-        <div class="kg-card kg-image-card">
-          <h2>Tools</h2>
-          <picture>
-            {/* <source srcset={toolswebp} /> */}
-            <img src={tools} alt="Tools" />
-          </picture>
-        </div>
       </article>
 
       <div class="kg-card kg-image-card kg-width-full">
