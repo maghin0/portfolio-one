@@ -100,7 +100,7 @@ const BlogIndex = ({ data }, location) => {
             <div style={{ zIndex: 10 }}>
               <h1>CONNECT</h1>
               <h2 className="page-head-title">
-                <a href="mailto:tarek-maghin@outlook.com">
+                <a href="mailto:maghin@live.com">
                   <button
                     className="large"
                     role="button"

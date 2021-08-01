@@ -64,7 +64,7 @@ const Layout = props => {
               >
                 GitHub
               </a> */}
-              <a href="mailto:tarek-maghin@outlook.com">
+              <a href="mailto:maghin@live.com">
                 <button
                   className="large"
                   role="button"
