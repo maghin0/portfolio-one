@@ -56,14 +56,14 @@ const Layout = props => {
                 Instagram
               </a>
 
-              {/* <a
+              <a
                 href="https://github.com/maghin0"
                 title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 GitHub
-              </a> */}
+              </a>
               <a href="mailto:maghin@live.com">
                 <button
                   className="large"

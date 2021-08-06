@@ -2,8 +2,8 @@
 title: Yves saint Laurant
 date: "2021-07-08"
 tags: [web development]
-thumbnail: ./yves-saint-laurent-hero.png
-hero: ./yves-saint-laurent-thumbnail.png
+thumbnail: ./yves-saint-laurent-thumbnail.png
+hero: ./yves-saint-laurent-hero.png
 ---
 
 ### Visit the website here: [Yves saint Laurent's website](https://everestminds-with-server.herokuapp.com/)

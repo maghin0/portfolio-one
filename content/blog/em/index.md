@@ -8,7 +8,7 @@ hero: ./em-thumbnail.png
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![which-stack comments](./em-blogs.png)
+![em-unit lab devices](./em-lab-devices.png)
 
 </div>
 
@@ -27,7 +27,7 @@ Which had little to none of the following:
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![em-unit navbar](./em-navbar.png)
+![em-unit blogs](./em-blogs.png)
 
 </div>
 
