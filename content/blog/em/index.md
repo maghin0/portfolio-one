@@ -2,15 +2,9 @@
 title: EM-Unit
 date: "2021-03-08"
 tags: [web development]
-thumbnail: ./em-hero.png
-hero: ./em-thumbnail.png
+thumbnail: ./em-thumbnail.jpg
+hero: ./em-hero.png
 ---
-
-<div class="kg-card kg-image-card kg-width-full">
-
-![em-unit lab devices](./em-lab-devices.png)
-
-</div>
 
 ### Visit the website here: [em-unit's website](https://emunit.netlify.app/)
 
@@ -31,12 +25,13 @@ Which had little to none of the following:
 
 </div>
 
-And what is better than a static site when it comes to a simple blog site, so using Gatsby and the power of netlifyCMS.
+What is better than JAM stack when it comes to a simple blogging website? Nothing, so using power of Gatsby, GraphQL and netlifyCMS to create this website, not only with all of the features that it did not have listed above but also with the incredible power of being on the edge of the CDN, always ready to be served
 
-Not only with all of the features that it did not have listed above but also with the incredible power of being on the edge of the CDN, always ready to be served
+This project helped me understand the CMS world more than I ever did before. Using headless CMS is very powerful;
 
-This project was self-made to help me understand how to use a stack that I have been always interested in, and that’s the MERN (MongoDB, Express, React, and Nodejs) stack. I also used graphQL and Apollo-client to manage data in the application.
-
-While building this I learned so much about MERN stack but later I found out that Gatsby and the JAM stack are much faster and lighter to build. And that’s when I started learning and building Salon website.
+- you only need a single source of content
+- separated layers of code and content
+- API content delivery
+- no need for multiple instances to serve different digital channels
 
 ![em-unit-tools](./which-stack-dev-tools.jpg)
