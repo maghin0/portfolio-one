@@ -1,6 +1,6 @@
 ---
 title: Yves saint Laurant
-date: "2021-07-08"
+date: "2021-12-08"
 tags: [web development]
 thumbnail: ./yves-saint-laurent-thumbnail.jpg
 hero: ./yves-saint-laurent-hero.png
